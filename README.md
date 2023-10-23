@@ -12,13 +12,13 @@ In this code, several improvements and modifications have been made to enhance t
 
 **Title**: Changed the title to a more descriptive title, "Horizon - Official Website".
 
-**Header Element**: Replaced the <div> element with a semantic <header> element to signify the website header.
+**Header Element**: Replaced the < div > element with a semantic < header > element to signify the website header.
 
 **Heading**: Enhanced the main heading within the header by providing a more descriptive title, "Horiseon - Digital Solution."
 
-**Image Alt Attributes**: Added descriptive alt attributes to all image elements for accessibility and deleted an unnecessary </img> since the <img> tag is a self-closing element. 
+**Image Alt Attributes**: Added descriptive alt attributes to all image elements for accessibility and deleted an unnecessary < /img> since the < img > tag is a self-closing element. 
 
-**Footer Element**: Replaced the <div> element with a semantic <footer> element for the website footer.
+**Footer Element**: Replaced the < div > element with a semantic < footer > element for the website footer.
 
 
 ### Credits
