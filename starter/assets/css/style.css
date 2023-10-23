@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*changed order so it matches html structure*/
 .search-engine-optimization,   /*placed them together since they share the same specifics*/
 .online-reputation-management,
 .social-media-marketing {
